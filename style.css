@@ -1,0 +1,13 @@
+.logo{
+    background-color: white;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    font-size: 50px;
+}
+
+.bgimg{
+    background-image: url(./img/headimg.png);
+    background-size: cover;
+    background-position: center center;
+}
